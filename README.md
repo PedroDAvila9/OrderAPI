@@ -30,7 +30,3 @@ json
     "acompanhamento": "fries",
     "valor_total": 10.99
 }
-
-Contributions
-
-    Contributions are welcome! If you find a bug or want to add a new feature, please open an issue or send a pull request.
